@@ -1,0 +1,16 @@
+D:\resource_file\Updater\OAUS.Server\bin\Release\OAUS.Server.exe.config
+D:\resource_file\Updater\OAUS.Server\bin\Release\OAUS.Server.exe
+D:\resource_file\Updater\OAUS.Server\bin\Release\OAUS.Server.pdb
+D:\resource_file\Updater\OAUS.Server\bin\Release\ESBasic.dll
+D:\resource_file\Updater\OAUS.Server\bin\Release\ESFramework.dll
+D:\resource_file\Updater\OAUS.Server\bin\Release\OAUS.Core.dll
+D:\resource_file\Updater\OAUS.Server\bin\Release\OAUS.Core.pdb
+D:\resource_file\Updater\OAUS.Server\bin\Release\ESFramework.xml
+D:\resource_file\Updater\OAUS.Server\obj\x86\Release\OAUS.Server.csprojResolveAssemblyReference.cache
+D:\resource_file\Updater\OAUS.Server\obj\x86\Release\OAUS.Server.AddFileVersionForm.resources
+D:\resource_file\Updater\OAUS.Server\obj\x86\Release\OAUS.Server.FileVersionForm.resources
+D:\resource_file\Updater\OAUS.Server\obj\x86\Release\OAUS.Server.MainForm.resources
+D:\resource_file\Updater\OAUS.Server\obj\x86\Release\OAUS.Server.Properties.Resources.resources
+D:\resource_file\Updater\OAUS.Server\obj\x86\Release\OAUS.Server.csproj.GenerateResource.Cache
+D:\resource_file\Updater\OAUS.Server\obj\x86\Release\OAUS.Server.exe
+D:\resource_file\Updater\OAUS.Server\obj\x86\Release\OAUS.Server.pdb

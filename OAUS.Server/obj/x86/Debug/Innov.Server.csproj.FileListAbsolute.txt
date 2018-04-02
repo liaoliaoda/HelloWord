@@ -1,0 +1,16 @@
+D:\resource_file\Updater\OAUS.Server\bin\Debug\OAUS.Server.exe.config
+D:\resource_file\Updater\OAUS.Server\bin\Debug\OAUS.Server.exe
+D:\resource_file\Updater\OAUS.Server\bin\Debug\OAUS.Server.pdb
+D:\resource_file\Updater\OAUS.Server\bin\Debug\ESBasic.dll
+D:\resource_file\Updater\OAUS.Server\bin\Debug\ESFramework.dll
+D:\resource_file\Updater\OAUS.Server\bin\Debug\OAUS.Core.dll
+D:\resource_file\Updater\OAUS.Server\bin\Debug\OAUS.Core.pdb
+D:\resource_file\Updater\OAUS.Server\bin\Debug\ESFramework.xml
+D:\resource_file\Updater\OAUS.Server\obj\x86\Debug\Innov.Server.AddFileVersionForm.resources
+D:\resource_file\Updater\OAUS.Server\obj\x86\Debug\Innov.Server.FileVersionForm.resources
+D:\resource_file\Updater\OAUS.Server\obj\x86\Debug\Innov.Server.MainForm.resources
+D:\resource_file\Updater\OAUS.Server\obj\x86\Debug\OAUS.Server.Properties.Resources.resources
+D:\resource_file\Updater\OAUS.Server\obj\x86\Debug\Innov.Server.csproj.GenerateResource.Cache
+D:\resource_file\Updater\OAUS.Server\obj\x86\Debug\OAUS.Server.exe
+D:\resource_file\Updater\OAUS.Server\obj\x86\Debug\OAUS.Server.pdb
+D:\resource_file\Updater\OAUS.Server\obj\x86\Debug\Innov.Server.csprojResolveAssemblyReference.cache

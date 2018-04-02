@@ -1,0 +1,14 @@
+D:\resource_file\Updater\AutoUpdater\bin\Release\AutoUpdater.exe.config
+D:\resource_file\Updater\AutoUpdater\bin\Release\AutoUpdater.exe
+D:\resource_file\Updater\AutoUpdater\bin\Release\AutoUpdater.pdb
+D:\resource_file\Updater\AutoUpdater\bin\Release\ESBasic.dll
+D:\resource_file\Updater\AutoUpdater\bin\Release\ESFramework.dll
+D:\resource_file\Updater\AutoUpdater\bin\Release\OAUS.Core.dll
+D:\resource_file\Updater\AutoUpdater\bin\Release\OAUS.Core.pdb
+D:\resource_file\Updater\AutoUpdater\bin\Release\ESFramework.xml
+D:\resource_file\Updater\AutoUpdater\obj\x86\Release\AutoUpdater.csprojResolveAssemblyReference.cache
+D:\resource_file\Updater\AutoUpdater\obj\x86\Release\AutoUpdater.MainForm.resources
+D:\resource_file\Updater\AutoUpdater\obj\x86\Release\AutoUpdater.Properties.Resources.resources
+D:\resource_file\Updater\AutoUpdater\obj\x86\Release\AutoUpdater.csproj.GenerateResource.Cache
+D:\resource_file\Updater\AutoUpdater\obj\x86\Release\AutoUpdater.exe
+D:\resource_file\Updater\AutoUpdater\obj\x86\Release\AutoUpdater.pdb

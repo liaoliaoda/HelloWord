@@ -1,0 +1,5 @@
+D:\resource_file\Updater\OAUS.Core\bin\Release\OAUS.Core.dll
+D:\resource_file\Updater\OAUS.Core\bin\Release\OAUS.Core.pdb
+D:\resource_file\Updater\OAUS.Core\bin\Release\ESBasic.dll
+D:\resource_file\Updater\OAUS.Core\obj\Release\OAUS.Core.dll
+D:\resource_file\Updater\OAUS.Core\obj\Release\OAUS.Core.pdb
